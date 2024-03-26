@@ -1,5 +1,5 @@
-# Sales-Performance
-Sales performance dashboard with detailed overview
+# Sales-performance-dashboard
+Sales performance dashboard with detailed overview using power BI
 
 # Sales performance page
 Page yang berisi tentang performa penjualan yang terdiri dari sales comparison, sales trend, dll.
